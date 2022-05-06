@@ -1,0 +1,59 @@
+{
+    "addresses": [
+        {
+            "accepting_new_patients": true,
+            "address_string": "1213 15th Ave W, Williston, ND 58801",
+            "city": "Williston",
+            "phones": [
+                {
+                    "type": "phone",
+                    "value": "(701) 572-7651"
+                }
+            ],
+            "state": "ND",
+            "street_line_1": "1213 15th Ave W",
+            "zip": "58801"
+        }
+    ],
+    "networks": [
+        {
+            "name": "TieredChoice Network"
+        }
+    ],
+    "provider": {
+        "facility_name": "CHI St. Alexius Health Williston Medical Center Primary Care",
+        "facility_type": "Clinic",
+        "provider_type": "facility",
+        "site_uid": "ed83060feb270049a4a3bf978dc4acb3",
+        "unparsed_name": "CHI St. Alexius Health Williston Medical Center Primary Care"
+    },
+    "specialties": [
+        {
+            "name": "Urology"
+        },
+        {
+            "name": "Urgent Care"
+        },
+        {
+            "name": "Radiation Oncology"
+        },
+        {
+            "name": "Pediatrics"
+        },
+        {
+            "name": "Pain Medicine"
+        },
+        {
+            "name": "Obstetrics & Gynecology"
+        },
+        {
+            "name": "Mental \/ Chemical Health Care"
+        },
+        {
+            "name": "Internal Medicine"
+        },
+        {
+            "name": "Family Medicine"
+        }
+    ]
+}

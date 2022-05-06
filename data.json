@@ -1,0 +1,82 @@
+{
+    "addresses": [
+        {
+            "accepting_new_patients": true,
+            "address_string": "1213 15th Ave W, Williston, ND 58801",
+            "city": "Williston",
+            "languages": [],
+            "office_name": "",
+            "pcp": null,
+            "pcp_id": null,
+            "phones": [
+                {
+                    "type": "phone",
+                    "value": "(701) 572-7651"
+                }
+            ],
+            "state": "ND",
+            "street_line_1": "1213 15th Ave W",
+            "street_line_2": "",
+            "zip": "58801"
+        }
+    ],
+    "group_affiliations": [],
+    "hospital_affiliations": [],
+    "networks": [
+        {
+            "name": "TieredChoice Network",
+            "tier": ""
+        }
+    ],
+    "provider": {
+        "accepting_new_patients": null,
+        "facility_name": "CHI St. Alexius Health Williston Medical Center Primary Care",
+        "facility_type": "Clinic",
+        "first_name": null,
+        "gender": null,
+        "last_name": null,
+        "license_number": "",
+        "middle_name": null,
+        "npi": null,
+        "pcp": null,
+        "pcp_id": null,
+        "provider_type": "facility",
+        "rating": {
+            "scale": null,
+            "score": null
+        },
+        "site_uid": "ed83060feb270049a4a3bf978dc4acb3",
+        "suffix": null,
+        "title": null,
+        "unparsed_name": "CHI St. Alexius Health Williston Medical Center Primary Care"
+    },
+    "specialties": [
+        {
+            "name": "Family Medicine"
+        },
+        {
+            "name": "Internal Medicine"
+        },
+        {
+            "name": "Mental / Chemical Health Care"
+        },
+        {
+            "name": "Obstetrics & Gynecology"
+        },
+        {
+            "name": "Pain Medicine"
+        },
+        {
+            "name": "Pediatrics"
+        },
+        {
+            "name": "Radiation Oncology"
+        },
+        {
+            "name": "Urgent Care"
+        },
+        {
+            "name": "Urology"
+        }
+    ]
+}
